@@ -10,8 +10,7 @@
 
 [I am a url](http://www.baidu.com)
 
-![King](https://ss0.bdstatic.com/5aV1bjqh_Q23odCf/static/superman/
-img/logo/logo_white_fe6da1ec.png)
+![King](https://s0.zjlao.com/images/logoimg/logo.png)
 
 
 #### 我是代码框
