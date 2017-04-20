@@ -15,11 +15,12 @@
 > warning.hehe.
 > FBI warning
 
-[I am a url](http://www.baidu.com)
+[I am a url of BaiDu.](http://www.baidu.com)
 
-![King](https://s0.zjlao.com/images/logoimg/logo.png)
+![BaiDu](https://www.baidu.com/img/bd_logo1.png)
 
 **This is 粗体**
+
 *This is 斜体*
 
 #### 我是代码框
