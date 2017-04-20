@@ -17,9 +17,9 @@
 
 > Warning here.
 
+![BaiDu](https://www.baidu.com/img/bd_logo1.png)
 [I am a url of Baidu.](http://www.baidu.com)
 
-![BaiDu](https://www.baidu.com/img/bd_logo1.png)
 
 **This is 粗体**
 
