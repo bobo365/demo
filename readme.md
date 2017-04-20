@@ -1,21 +1,23 @@
-# 1 This is my first example for Markdown.
+# 1 This is the first line of Markdown.
 ## 2 This is the second line.
-* 1
-* 2
-* 3
-1.
-2.
-3.
-
 ### 3 I am king.
 #### 4 This is the four line.
 ##### 5 This is the five line.
 ###### 6 This is the six line.
 
-> warning.hehe.
-> FBI warning
+* 1
+* 2
+* 3
+1. The 1.
+2. The 2.
+3. The 3.
 
-[I am a url of BaiDu.](http://www.baidu.com)
+
+> FBI WARNING
+
+> Warning here.
+
+[I am a url of Baidu.](http://www.baidu.com)
 
 ![BaiDu](https://www.baidu.com/img/bd_logo1.png)
 
