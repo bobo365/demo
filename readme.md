@@ -17,7 +17,8 @@
 
 > Warning here.
 
-![BaiDu](https://www.baidu.com/img/bd_logo1.png)
+![BaiDu](https://www.baidu.com/img/baidu_jgylogo3.gif)
+
 [I am a url of Baidu.](http://www.baidu.com)
 
 
