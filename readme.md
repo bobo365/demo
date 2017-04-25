@@ -5,7 +5,10 @@
 ##### 5 This is the five line.
 ###### 6 This is the six line.
 
-* 1
++ 1
+	- 1
+	- 2
+	- 3
 * 2
 * 3
 1. The 1 line.
