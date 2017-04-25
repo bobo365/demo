@@ -8,9 +8,9 @@
 * 1
 * 2
 * 3
-1. The 1.
-2. The 2.
-3. The 3.
+1. The 1 line.
+2. The 2 line.
+3. The 3 line.
 
 
 > FBI WARNING
@@ -31,6 +31,12 @@
 	while true:
 		do echo "hehe";
 	done
+	
+	for i in a b c
+		do echo "Hehe2";
+	done
+	
+***分割线***	
 
 ###### 代码框模式二
 `while true:
