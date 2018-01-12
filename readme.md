@@ -37,7 +37,7 @@
 ___
 
 #### 我是代码框
-
+``` shell
 	while true:
 		do echo "hehe";
 	done
@@ -45,6 +45,7 @@ ___
 	for i in a b c
 		do echo "Hehe2";
 	done
+```
 	
 ***
 
